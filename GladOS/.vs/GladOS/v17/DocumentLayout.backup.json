@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GladOS\\GladOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1EE50-733B-4BC3-A837-3BDCD9B9CDCB}|GladOS.csproj|D:\\GladOS\\GladOS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1EE50-733B-4BC3-A837-3BDCD9B9CDCB}|GladOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\AppData\\Local\\Temp\\.vsdbgsrc\\79bbc52e08b3969a3a8007f083b9cee2a3b6873923bc83ffbfc3829e02825dea\\SpeechRecognizerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1EE50-733B-4BC3-A837-3BDCD9B9CDCB}|GladOS.csproj|d:\\glados\\glados\\testhead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1EE50-733B-4BC3-A837-3BDCD9B9CDCB}|GladOS.csproj|solutionrelative:testhead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF1EE50-733B-4BC3-A837-3BDCD9B9CDCB}|GladOS.csproj|d:\\glados\\glados\\recognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF1EE50-733B-4BC3-A837-3BDCD9B9CDCB}|GladOS.csproj|solutionrelative:recognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeechRecognizerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\AppData\\Local\\Temp\\.vsdbgsrc\\79bbc52e08b3969a3a8007f083b9cee2a3b6873923bc83ffbfc3829e02825dea\\SpeechRecognizerService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\AppData\\Local\\Temp\\.vsdbgsrc\\79bbc52e08b3969a3a8007f083b9cee2a3b6873923bc83ffbfc3829e02825dea\\SpeechRecognizerService.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:53:26.445Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestHead.cs",
+              "DocumentMoniker": "D:\\GladOS\\GladOS\\TestHead.cs",
+              "RelativeDocumentMoniker": "TestHead.cs",
+              "ToolTip": "D:\\GladOS\\GladOS\\TestHead.cs",
+              "RelativeToolTip": "TestHead.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwJEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:51:51.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recognizer.cs",
+              "DocumentMoniker": "D:\\GladOS\\GladOS\\recognizer.cs",
+              "RelativeDocumentMoniker": "recognizer.cs",
+              "ToolTip": "D:\\GladOS\\GladOS\\recognizer.cs",
+              "RelativeToolTip": "recognizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:42:18.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GladOS\\GladOS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GladOS\\GladOS\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:40:35.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
