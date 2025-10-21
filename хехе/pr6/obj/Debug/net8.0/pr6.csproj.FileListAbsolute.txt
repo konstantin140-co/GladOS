@@ -1,0 +1,15 @@
+D:\GladOS\хехе\pr6\bin\Debug\net8.0\pr6.exe
+D:\GladOS\хехе\pr6\bin\Debug\net8.0\pr6.deps.json
+D:\GladOS\хехе\pr6\bin\Debug\net8.0\pr6.runtimeconfig.json
+D:\GladOS\хехе\pr6\bin\Debug\net8.0\pr6.dll
+D:\GladOS\хехе\pr6\bin\Debug\net8.0\pr6.pdb
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.AssemblyInfoInputs.cache
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.AssemblyInfo.cs
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.csproj.CoreCompileInputs.cache
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.sourcelink.json
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.dll
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\refint\pr6.dll
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.pdb
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\pr6.genruntimeconfig.cache
+D:\GladOS\хехе\pr6\obj\Debug\net8.0\ref\pr6.dll
